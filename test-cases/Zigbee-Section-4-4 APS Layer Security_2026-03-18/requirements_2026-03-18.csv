@@ -1,0 +1,5 @@
+ID,Reference,Requirement
+1,"[B2]","Error! Reference source not found. Ephemeral Unique Authorization Key 0xB1 Refer to the Zigbee Direct Specification for details"
+2,"[B2]","Enumeration Value Description Basic Authorization Key 0xB2 Refer to the Zigbee Direct Specification for details"
+3,"[B2]","Administrative Authorization Key 0xB3 Refer to the Zigbee Direct Specification for details"
+4,"[B2]","Reserved 0x05 - 0xAF, 0xB4 - 0xFF Reserved . Table Error! No text of specified style in document. - 6 . Transport KeyData Parameter for a Trust Center Link Key Parameter Name Type Valid Range Description Key Set of 16 octets Variable The Trust Center link key. Table Error! No text of specified style in document. - 7 . Transport KeyData Parameter for a Network Key Parameter Name Type Valid Range Description KeySeqNumber Octet 0x00 – 0xFF A sequence number assigned to a network key by the Trust Center and used to distinguish network keys fo"
